@@ -25,3 +25,6 @@ In the bivariate exploration, I focus on how different factors affect the durati
 # Conclusions:
 1. Although members of different age have different number of rides and ride duration, the relationship of member age and ride duration is not impacted by rider type, gender, and day of the week. 
 2. The number of ride and ride duration, on the other hand, are affected by a number of different factors. 
+
+# To Dos:
+1. Polish the visualizations by adding titles, labels, adjusting colors, etc. 
