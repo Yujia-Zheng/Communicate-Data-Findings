@@ -28,3 +28,6 @@ In the bivariate exploration, I focus on how different factors affect the durati
 
 # To Dos:
 1. Polish the visualizations by adding titles, labels, adjusting colors, etc. 
+
+# Limitations:
+1. The dataset has posed limitation to my analysis, because user id is not included. As a result, it is impossible to find out whether some users have taken multiple rides, and how their ride frequency can be affected by different factors. 
