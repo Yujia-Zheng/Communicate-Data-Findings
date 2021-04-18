@@ -21,3 +21,7 @@ In the bivariate exploration, I focus on how different factors affect the durati
 # Multivariate Exploration:
 1. I break down the riders by gender and user type, and the result shows that the duration of rides and the riders' age are fairly consistent throughout different groups of riders.
 2. I then investigate how the rider age and ride duration might change throughout the week, and the result shows that their distribution remain consistent throughout the week.
+
+# Conclusions:
+1. Although members of different age have different number of rides and ride duration, the relationship of member age and ride duration is not impacted by rider type, gender, and day of the week. 
+2. The number of ride and ride duration, on the other hand, are affected by a number of different factors. 
